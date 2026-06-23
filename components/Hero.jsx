@@ -41,9 +41,9 @@ export default function Hero() {
           >
             <motion.p
               variants={itemVariants}
-              className="text-foreground-muted text-lg font-medium mb-4"
+              className="text-foreground-muted text-2xl font-medium mb-4"
             >
-              Hey, I'm Nikhil 👋
+              Hey, I'm Nikhil 
             </motion.p>
 
             <motion.h1

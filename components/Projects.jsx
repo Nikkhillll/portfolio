@@ -10,7 +10,7 @@ const projects = [
     description:
       "AI-powered repository analyzer that reads any GitHub repository and generates a detailed explanation of its architecture, tech stack, file structure, dependencies, functionality, and development workflow.",
       image:"/repodoc.png",
-    tags: ["React", "Node.js", "MongoDB", "Express"],
+    tags: ["Next.js", "PostgreSQL", "Tailwind",],
     github: "https://github.com/Nikkhillll/Repodoc",
     live: "https://repodoc-cinn.vercel.app/",
   },
@@ -19,7 +19,7 @@ const projects = [
     description:
       "A MERN-ready React frontend for tracking expenses by category, with charts and user auth",
       image:"/spendly.png",
-    tags: ["Next.js", "PostgreSQL", "Tailwind", "n8n"],
+    tags: ["React", "Node.js", "MongoDB", "Express"],
     github: "https://github.com/Nikkhillll/Spendly",
     live: "https://spendly-brown.vercel.app/",
   },

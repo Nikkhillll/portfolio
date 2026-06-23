@@ -49,11 +49,8 @@ export default function About() {
               About Me
             </h2>
             <p className="text-foreground-muted text-lg leading-relaxed mb-8">
-              I'm a passionate Full Stack Developer and Computer Science student
-              from India. I love building modern web applications that solve
-              real-world problems. Currently exploring the depths of React,
-              Next.js, Node.js, and everything in between. I'm driven by
-              curiosity, and I believe in learning by building.
+            I'm a passionate Full Stack Developer and IT student from India who enjoys building modern web applications that solve real-world problems. Currently, I'm expanding my skills in Machine Learning and Data Structures & Algorithms while continuing to deepen my expertise in React, Next.js, Node.js, and related technologies. I believe in learning by building, staying curious, and constantly challenging myself to grow as a developer and problem-solver.
+
             </p>
 
             {/* Highlight Tags */}
@@ -62,7 +59,7 @@ export default function About() {
                 📍 India
               </span>
               <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary-light text-primary-dark font-medium text-sm">
-                🎓 CS Student
+                🎓 IT Student
               </span>
               <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary-light text-primary-dark font-medium text-sm">
                 🚀 Open to Internships

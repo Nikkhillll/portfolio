@@ -7,8 +7,8 @@ import { useState, useRef } from "react";
 import emailjs from "@emailjs/browser";
 
 const SERVICE_ID = "service_sf85nq9";    
-const TEMPLATE_ID = "template_y7b9uxh";    // 👈 replace this
-const PUBLIC_KEY = "Rjn_BYR_3Md2cZQny";      // 👈 replace this
+const TEMPLATE_ID = "template_y7b9uxh";   
+const PUBLIC_KEY = "Rjn_BYR_3Md2cZQny";       
 
 export default function Contact() {
   const formRef = useRef();
